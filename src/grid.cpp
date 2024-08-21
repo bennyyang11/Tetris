@@ -1,6 +1,6 @@
 #include "grid.h"
 #include <iostream>
-
+#include "colors.h"
 Grid::Grid()
 {
     numRows = 20;

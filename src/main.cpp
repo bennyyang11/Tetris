@@ -1,5 +1,6 @@
 #include <raylib.h>
 #include "game.h"
+#include "colors.h"
 #include <iostream>
 
 double lastUpdateTime = 0;
